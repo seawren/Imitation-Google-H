@@ -1,0 +1,144 @@
+body {
+    background-color: white; 
+    padding: 0px; 
+    margin: 0px;
+}
+footer {
+    background-color: #f0f0f0; 
+    color: gray;
+}
+h2 {
+    color: #361fb1; 
+    margin-top: 20px; 
+    margin-bottom: 0px; 
+    font-size: 17px; 
+    font-weight: 590;
+}
+ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+}
+li a.active {
+    color: blue;
+    border-bottom: 3px solid blue;
+    padding-bottom: 13px;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+    margin: 0 -0.1em;
+}
+.results {
+    width: 620px; 
+    padding-left: 180px;
+}
+#search {
+    border-radius: 40px; 
+    border: 1px #d1d1d1 solid; 
+    width: 620px; 
+    height: 45px; 
+    margin: 20px 360px 20px 60px; 
+    background: white;
+}
+button {
+    background: #5c74f5; 
+    color: white; 
+    border: none; 
+    margin: auto; 
+    padding: 7px 12px 7px 12px; 
+    text-align: center; 
+    font-weight: bold; 
+    border-radius: 1px;
+}
+a {
+    color: gray; 
+    text-decoration: none; 
+    margin: 5px 12px 5px 12px; 
+    font-size: 12px;
+}
+.sticky {
+    position: sticky; 
+    top: 0px; 
+    background: white;
+}
+.nav {
+    padding-left: 165px; 
+    border-bottom: 1px solid #d2d2d2; 
+    padding-bottom: 15px;
+}
+a:hover {
+    color: black;
+}
+p {
+    margin-top: 3px; 
+    margin-bottom: 2px; 
+    font-size: 13px;
+}
+.unlink {
+color: green; 
+font-size: 14px;
+margin-top: 1px;
+margin-bottom: 2px;
+}
+img.resize {
+max-width: 7%;
+max-height: 7%;
+position: relative;
+top: 10px;
+left: 35px;
+}
+.imgsq {
+    position: relative; 
+    top: 15px;
+}
+.canada {
+    background: #f0f0f0; 
+    border: 1px solid #e4e4e4; 
+    border-right: none; 
+    border-left: none; 
+    padding: 12px 12px; 
+    color: gray; 
+    font-size: 15px; 
+    padding-left: 200px;
+    margin-top: 30px;
+}
+.end {
+    padding-left: 188px; 
+    margin-top: 10px;
+}
+#nresults {
+    color: gray; 
+    margin-top: 15px; 
+    font-size: 13px;
+}
+#search:hover {
+	box-shadow: 1px 1px 2px 1px #e4e4e4, -1px 0px 1px 1px #e4e4e4;
+}
+::placeholder {
+    color: black; 
+    opacity:1; 
+    font-size: 16px;
+}
+img.magglass {
+position: relative;
+right: 410px;
+top: 11px;
+}
+.trueblue {
+    color: blue; 
+    margin: 6px;
+}
+.trueblue:hover {
+    text-decoration: underline; 
+    color: blue;
+}
+.google {    
+    margin-top: 30px;
+    margin-left: 155px;
+}
+.glinks {    
+    margin-left: 192px;
+    margin-bottom: 20px;
+}
